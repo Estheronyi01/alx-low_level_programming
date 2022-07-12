@@ -1,1 +1,1 @@
-A project on pointers and arrays
+Array and pointers
