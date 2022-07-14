@@ -1,5 +1,3 @@
-File  31 lines(25 sloc)  456 Bytes
-
 #include "main.h"
 
 /**
